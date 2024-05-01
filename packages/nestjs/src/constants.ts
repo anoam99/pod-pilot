@@ -1,0 +1,9 @@
+export const LEADER_ELECTION_REDIS_PREFIX = 'leader-election';
+export const HEARTBIT_CHANNEL = 'heartbit';
+export const CLAIM_LEADER_CHANNEL = 'claim_leader';
+export const CALL_FOR_ELECTION = 'call_for_election';
+export const VOTE_CHANNEL = 'vote';
+export const LEADER_KEY = 'leader';
+export const HEARTBEAT_INTERVAL = 500;
+export const TERM_MINIMUM_FACTOR = 4;
+export const TERM_MAXIMUM_FACTOR = 8;
