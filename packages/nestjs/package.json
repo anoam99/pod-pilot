@@ -1,8 +1,7 @@
 {
   "name": "@pod-pilot/nestjs",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/anoam99",
     "access": "public"
   },
   "scripts": {
